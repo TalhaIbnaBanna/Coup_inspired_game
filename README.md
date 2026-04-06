@@ -1,9 +1,8 @@
 # Coup
 An online, real-time multiplayer implementation of the popular social deduction card game Coup.
 
-##Project Structure
+## Project Structure
 * /server: Contains the Node.js backend using Socket.io for real-time communication and an authoritative Game Engine.
-  
 * /src: The Vite-powered frontend built with vanilla JS and CSS.
   
 
